@@ -106,6 +106,7 @@ You're free to use this in any manner you please. You do not need to use this en
 | GetPidFromPidBruteForcing | modexp |
 | GetPidFromNtQueryFileInformation | modexp, Lloyd Davies, Jonas Lyk |
 | GetPidFromPidBruteForcingExW | smelly__vx, LLoyd Davies, Jonas Lyk, modexp |
+| RtQueryUserTokens | rthxr |
 
 
 ## Helper Functions
